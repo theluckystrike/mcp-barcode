@@ -1,0 +1,31 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.theluckystrike/qr-code",
+  "description": "QR codes from your AI chat: WiFi joins, vCards, SEPA payment codes, EAN-13. SVG or PNG.",
+  "version": "0.20.0",
+  "repository": {
+    "url": "https://github.com/theluckystrike/mcp-servers",
+    "source": "github",
+    "subfolder": "servers/barcode"
+  },
+  "websiteUrl": "https://mcp.zovo.one/buy/barcode",
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/theluckystrike/mcp-servers/releases/download/v0.20.0/barcode.mcpb",
+      "version": "0.20.0",
+      "fileSha256": "b5ac06ec89c580dc99d12339bc45a0658f576187a7707d0fb76c630660ce5ba0",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "MCP_LICENSE_KEY",
+          "description": "Optional Pro license key (MCPL1....). Verified offline.",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
