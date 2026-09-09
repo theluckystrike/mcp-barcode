@@ -15,6 +15,8 @@ for a product, a Code 128 for a shelf label, a WiFi code for the office wall, a 
 Everything is drawn on your machine: no upload, no account, no API key, and no network call of any kind.
 
 
+npm publish for `@theluckystrike/mcp-barcode` is pending, so `npx -y @theluckystrike/mcp-barcode` returns 404 today. Until then, the `.mcpb` one-click bundle or a clone+build is the working path.
+
 ## Install
 
 Claude Desktop, `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS) or
