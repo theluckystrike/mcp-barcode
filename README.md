@@ -2,7 +2,7 @@
 
 <!-- mirror-seo:start -->
 
-**MCP server for QR code and barcode generation.** QR codes and barcodes drawn on your machine, with no upload and no network call.
+**MCP server for QR code and barcode generation: generates barcodes and QR codes.** QR codes and barcodes drawn on your machine, with no upload and no network call.
 
 Works with Claude Desktop, Claude Code, Cursor and any Model Context Protocol client. Runs on your own machine, or hosted with no install.
 
