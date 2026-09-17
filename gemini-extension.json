@@ -1,6 +1,6 @@
 {
   "name": "mcp-barcode",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "description": "MCP server for QR code and barcode generation: generates barcodes and QR codes. QR codes and barcodes drawn on your machine, with no upload and no network call.",
   "settings": [
     {
