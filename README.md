@@ -166,3 +166,5 @@ no telemetry. Codes are written where you say, and a small register of what was 
 `~/.local/share/mcp-servers/barcode/` (or `$XDG_DATA_HOME`). License keys verify offline with a public key.
 
 Built by [theluckystrike](https://github.com/theluckystrike). Support: support@zovo.one
+
+**Listed on the [AI Product Index](https://index.percall.dev/l/zovo-barcode.html)** — live remote endpoint at [mcp.zovo.one/s/barcode](https://mcp.zovo.one/s/barcode), free tier, no signup.
