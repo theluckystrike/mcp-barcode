@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.theluckystrike/barcode",
+  "description": "QR codes and barcodes offline: WiFi, vCards, SEPA payment codes, Code 128, EAN-13, SVG or PNG.",
+  "version": "0.22.1",
+  "repository": {
+    "url": "https://github.com/theluckystrike/mcp-servers",
+    "source": "github",
+    "subfolder": "servers/barcode"
+  },
+  "websiteUrl": "https://mcp.zovo.one/s/barcode",
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/theluckystrike/mcp-servers/releases/download/v0.22.0/barcode.mcpb",
+      "version": "0.22.0",
+      "fileSha256": "b67818c727f5c7d55c6d50cf16b467a1d422c611cad6e9121e6a519abde3ab81",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
